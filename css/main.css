@@ -11,7 +11,7 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
+/*
 body {
   font: 100% "segoe UI", Arial, Helvetica, sans-serif;
   background: whitesmoke;
@@ -191,4 +191,10 @@ form .ng-dirty.ng-valid {
 ::-webkit-input-placeholder {
   color: #ff9999;
   font-style: italic;
+}*/
+
+/*Bootstrap edit test*/
+
+.jumbotron{
+  background-color: pink;
 }
